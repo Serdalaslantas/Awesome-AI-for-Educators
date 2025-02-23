@@ -3,6 +3,7 @@
 1. Lesson Planning and Content Creation
 
 	•	Curipod: An AI-powered platform that enables teachers to create interactive lessons swiftly. By inputting a topic, it generates ready-to-use lessons complete with text, images, and engaging activities like polls and word clouds.
+		https://curipod.com/
 
 	•	MagicSchool.AI: Assists educators in developing lesson plans, lectures, and assessments tailored to specific grades and subjects, streamlining the content creation process.
 
