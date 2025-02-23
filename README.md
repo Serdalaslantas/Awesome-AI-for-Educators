@@ -3,8 +3,8 @@
 1. Lesson Planning and Content Creation
 	•	Curipod: An AI-powered platform that enables teachers to create interactive lessons swiftly. By inputting a topic, it generates ready-to-use lessons complete with text, images, and engaging activities like polls and word clouds.  ￼
 	•	MagicSchool.AI: Assists educators in developing lesson plans, lectures, and assessments tailored to specific grades and subjects, streamlining the content creation process.  ￼
-	•	Eduaid.AI: Provides AI-driven support for crafting educational materials, including lesson outlines and instructional resources, to enhance teaching efficiency.  ￼
-
+	•	Eduaid.AI: Provides AI-driven support for crafting educational materials, including lesson outlines and instructional resources, to enhance teaching efficiency.  ￼[
+](https://www.edutopia.org/article/7-ai-tools-that-help-teachers-work-more-efficiently/?utm_source=chatgpt.com)
 2. Assessment and Evaluation
 	•	Conker: An AI tool designed to generate quizzes and assessments aligned with curriculum standards, aiding teachers in evaluating student understanding effectively.  ￼
 	•	Quizbot: Utilizes AI to create customized quizzes, facilitating formative assessments and reinforcing learning objectives.  ￼
