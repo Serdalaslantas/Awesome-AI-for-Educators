@@ -1,8 +1,8 @@
 # Awesome-AI-for-Educators
 ## This repo includes curated list of useful resources of AI tools for educators
 1. Lesson Planning and Content Creation
-	•	Curipod: An AI-powered platform that enables teachers to create interactive lessons swiftly. By inputting a topic, it generates ready-to-use lessons complete with text, images, and engaging activities like polls and word clouds.  ￼
-	•	MagicSchool.AI: Assists educators in developing lesson plans, lectures, and assessments tailored to specific grades and subjects, streamlining the content creation process.  ￼
+	•	Curipod: An AI-powered platform that enables teachers to create interactive lessons swiftly. By inputting a topic, it generates ready-to-use lessons complete with text, images, and engaging activities like polls and word clouds.  ￼//
+	•	MagicSchool.AI: Assists educators in developing lesson plans, lectures, and assessments tailored to specific grades and subjects, streamlining the content creation process.  ￼//
 	•	Eduaid.AI: Provides AI-driven support for crafting educational materials, including lesson outlines and instructional resources, to enhance teaching efficiency.
 		(https://www.edutopia.org/article/7-ai-tools-that-help-teachers-work-more-efficiently/?utm_source=chatgpt.com)
 3. Assessment and Evaluation
