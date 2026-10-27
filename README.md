@@ -68,5 +68,7 @@
 13. Comprehensive AI Tool Directories
 	•	AI for K-12 Teachers: A program that covers the benefits and risks of integrating AI into educational settings, providing hands-on experiences with AI tools for language learning, assessments, and feedback.  ￼
 	•	AI Literacy for Teachers: A resource that offers best practices and tools for teachers to develop AI literacy, including guidance on crafting student contracts for AI-generated content and discussing ethical considerations specific to AI use in K-12 education.  ￼
+	•	桃李AI: AI tool that helps Chinese K-12 teachers draft personalized end-of-term student comments from an Excel roster and trait tags.
+		https://taoliapp.com/
 
 Incorporating these tools into your GitHub repository will provide educators with a valuable resource to enhance teaching and learning through AI. Ensure to include clear descriptions, usage guidelines, and links to each tool’s official website or repository to facilitate easy access and implementation.
